@@ -43,13 +43,13 @@ pip install -r requirements.txt
 
 <br/>
 
-1. 최신버전으로 설치
+- 최신버전으로 설치
 
 ```python
 pip uninstall -y numpy && pip install --upgrade numpy
 ```
 
-2. 선택버전으로 설치
+- 선택버전으로 설치
 
 ```python
 pip uninstall -y numpy && pip install numpy==1.23.4
