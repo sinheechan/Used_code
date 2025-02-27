@@ -16,3 +16,6 @@
     # import example_lib 
     # print(example_lib.__version__)
 
+# requirements.txt 파일 생성 > 콘솔
+    
+    # pip freeze > requirements.txt
