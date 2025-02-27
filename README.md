@@ -39,13 +39,27 @@ pip install -r requirements.txt
 
 <br/><br/>
 
-### 폴더 탐색하기
+### lib 재설치
 
 <br/>
 
-1. 폴더 경로 안에 있는 .csv 파일 명 불러오기
+1. 최신버전으로 설치
 
+```python
+pip uninstall -y numpy && pip install --upgrade numpy
+```
 
+2. 선택버전으로 설치
+
+```python
+pip uninstall -y numpy && pip install numpy==1.23.4
+```
+
+<br/><br/>
+
+### ....
+
+<br/>
 
 
 
