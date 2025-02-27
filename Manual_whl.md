@@ -19,3 +19,5 @@
 # requirements.txt 파일 생성 > 콘솔
     
     # pip freeze > requirements.txt
+
+# 
