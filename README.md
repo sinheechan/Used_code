@@ -37,7 +37,13 @@ pip list --format=freeze > requirements.txt
 pip install -r requirements.txt
 ```
 
+<br/><br/>
 
+### 폴더 탐색하기
+
+<br/>
+
+1. 폴더 경로 안에 있는 .csv 파일 명 불러오기
 
 
 
